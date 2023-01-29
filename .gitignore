@@ -1,0 +1,8 @@
+.idea
+node_modules
+.env
+.prod.env
+package-lock.json
+notes-api-webserverss.pem 
+.env
+.prod.env
